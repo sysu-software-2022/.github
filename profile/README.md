@@ -1,6 +1,6 @@
 <table align="center"><tr><td align="center" width="999">
 <p  align="center"> 
-<img src="./public/loupe.jpg" alt="Loupe"  align="center" width="180" /> </p>  
+<img src="https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/loupe.jpg" alt="Loupe"  align="center" width="180" /> </p>  
 
 <h1  align="center"> iGEM SYSU-Software 2022 </h1>
 
@@ -30,7 +30,7 @@
 
 ​	The homepage shows the visualization of prokaryotic defense systems collected by our database.
 
-​	![](./public/homepage.png)
+​	![](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/homepage.png)
 
 
 
@@ -40,13 +40,13 @@
 
 ​	The search page enables users to search for the prokaryotic defense genes data they want by selecting one or more of the parameters in "Taxonomy," "Defense System," and "Protein" and downloading the data locally for further analysis.
 
-![](./public/searchpage.png)
+![](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/searchpage.png)
 
 <div align="center">The Search page of LOUPE</div> 
 
 
 
-![](./public/SearchResult1.png)
+![](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/SearchResult1.png)
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-![](./public/SearchResult2.png)
+![](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/SearchResult2.png)
 
 <div align="center">The Search Result Details</div> 
 
@@ -64,7 +64,7 @@
 
 ​	Here we built a small online blast database, which contains the protein sequences of prokaryotic resistance genes we collected. If users have an unknown protein sequence, they can try to perform BLAST alignment on this platform.
 
-![](./public/Toolinterface.png)
+![](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/Toolinterface.png)
 
 <div align="center">The Tool interface of LOUPE</div> 
 
@@ -72,7 +72,7 @@
 
 ​	We briefly describe how the data on our Predict page is generated. We have mined potential resistance genes such as Abi, Cas, and RM from archaeal genomes based on the concept of Defense Island. 
 
-![](./public/ModelInterface.png)
+![](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/ModelInterface.png)
 
 <div align="center">The Model page of LOUPE</div> 
 
@@ -92,7 +92,7 @@
 
 ​	LOUPERunner is more of a powerful tool allowing users to execute the program with their customized parameters and therefore more space for customization, and it’s suited for debugging or for code modification to some context. It can be viewed as an integrated python package version of LoupeRunner. However, for processing large seeds by executing LOUPETool, you may have to wait for a longer time, which is contingent on your CPU core number (some bottleneck steps in LOUPETool are optimized by parallelization and the performance is positively correlated with the CPU core number). Therefore, we strongly recommend you execute LoupeTool on a high-performance computing platform (HPC).
 
-![](./public/LoupeRunner.jpg)
+![](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/LoupeRunner.jpg)
 
 <div align="center">48 CPU cores usage in a high-performance computing platform when processing bulk data during the paralleled period.</div> 
 
