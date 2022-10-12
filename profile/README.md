@@ -40,6 +40,8 @@
 
 ​	The search page enables users to search for the prokaryotic defense genes data they want by selecting one or more of the parameters in "Taxonomy," "Defense System," and "Protein" and downloading the data locally for further analysis.
 
+
+
 ![](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/searchpage.png)
 
 
@@ -48,7 +50,8 @@
 
 
 
-![](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/SearchResult1.png)
+
+![The Search page of LOUPE](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/SearchResult1.png)
 
 
 
@@ -58,6 +61,8 @@
 
 
 ![](https://gitlab.igem.org/2022/software-tools/sysu-software/-/raw/main/public/SearchResult2.png)
+
+
 
 <div align="center">The Search Result Details</div> 
 
