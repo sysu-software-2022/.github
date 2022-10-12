@@ -100,5 +100,5 @@
 
 # 👥 Authors and acknowledgment
 
-🌟Thanks to [Jingyun Huang](https://gitlab.igem.org/Maxwell), [Siduo Li](https://gitlab.igem.org/SiduoLi), [Zhongchun Zheng](https://gitlab.igem.org/zzc), [Tianxing Yang](https://gitlab.igem.org/P1atforM) and [Hongxin Xu](https://gitlab.igem.org/hungyam) for developing these fantastic software tools.
+🌟Thanks to [Jingyun Huang](https://github.com/Maxwell-Wong), [Siduo Li](https://github.com/SiduoLi2020), [Zhongchun Zheng](https://github.com/zhengzhch), [Tianxing Yang](https://github.com/yangtx7) and [Hongxin Xu](https://github.com/hungyam) for developing these fantastic software tools.
 
