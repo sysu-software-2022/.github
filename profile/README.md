@@ -116,13 +116,6 @@ MacBook Pro (13-inch, M1, 2020), Apple M1 chip with 8-core CPU, 8GB memory
 
 
 
-### （2）Linux Testing
-
-Ubuntu22.04 LTS  with CPU Intel(R) Xeon(R) Platinum 8350C CPU @ 2.60GHz 64 cores, 384G memory
-
-> Performance of optimised steps under dataset: Cas_INPUT
-
-<img src="https://lecture11-1301936037.cos.ap-guangzhou.myqcloud.com/202210191258734.png" alt="image-20221019125605597" style="zoom:50%;" />
 
 
 
