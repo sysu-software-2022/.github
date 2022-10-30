@@ -6,9 +6,10 @@
 
 <h1 align="center"> Loupe Online Platform</h1>  
 <h1 align="center"> LoupeTool & LoupeRunner </h1>  
+</td></tr></table>
+
 <h1 align="center"> Gold Medal! </h1>  
 <img src="https://lecture11-1301936037.cos.ap-guangzhou.myqcloud.com/202210301723278.png" alt="Loupe"  align="center"/>
-</td></tr></table>
 
 # 🚩Introduction
 ​	In iGEM 2022, SYSU-Software developed an online platform, LOUPE, documenting all the known defense systems in prokaryotes; and two interrelated offline tools, LOUPERunner and LOUPETools, allowing users to search and predict defense genes in prokaryotic genomes in silico.
