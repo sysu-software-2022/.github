@@ -6,7 +6,8 @@
 
 <h1 align="center"> Loupe Online Platform</h1>  
 <h1 align="center"> LoupeTool & LoupeRunner </h1>  
-
+<h1 align="center"> Gold Medal! </h1>  
+<img src="https://lecture11-1301936037.cos.ap-guangzhou.myqcloud.com/202210301723278.png" alt="Loupe"  align="center" width="180" />
 </td></tr></table>
 
 # 🚩Introduction
